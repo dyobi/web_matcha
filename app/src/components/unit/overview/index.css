@@ -1,0 +1,63 @@
+.overview-graph {
+    width: 100%;
+    height: 100%;
+
+    position: relative;
+    float: left;
+}
+
+.overview-follow {
+    width: calc(100% - 1rem);
+    height: auto;
+
+    padding: 0.5rem 0.5rem 0 0.5rem;
+
+    position: relative;
+    float: left;
+
+    color: var(--color-50);
+    font-size: 0.6rem;
+    font-weight: 700;
+    text-align: center;
+    line-height: 5rem;
+}
+
+.overview-follow-card {
+    width: calc(20% - 2rem / 5);
+
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
+    padding-top: 26.666%;
+
+    position: relative;
+    float: left;
+
+    background-color: lightgray;
+    border-radius: 0.5rem;
+
+    background-size: cover;
+    background-position: center;
+
+    cursor: pointer;
+}
+
+.overview-follow-card:nth-child(5n) {
+    margin-right: 0;
+}
+
+.overview-follow-name {
+    width: 100%;
+    height: 1.5rem;
+
+    position: absolute;
+    top: calc(100% - 2rem);
+    left: 0;
+
+    color: white;
+    font-size: 0.65rem;
+    font-weight: 700;
+    text-align: center;
+    line-height: 1.45rem;
+
+    background-color: var(--color-60);
+}

@@ -1,0 +1,165 @@
+.chat-header {
+    width: 100%;
+    height: 2rem;
+
+    position: relative;
+    float: left;
+
+    background-color: var(--color-70);
+}
+
+.chat-header-name {
+    width: calc(100% - 2rem);
+    height: 100%;
+
+    position: relative;
+    float: left;
+
+    color: white;
+    font-size: 0.85rem;
+    font-weight: 900;
+    text-indent: 0.75rem;
+    line-height: 2rem;
+}
+
+.chat-header-exit {
+    width: 0.7rem;
+    height: 0.7rem;
+
+    margin: 0.65rem;
+
+    position: relative;
+    float: left;
+
+    color: white;
+
+    cursor: pointer;
+}
+
+.chat-body {
+    width: calc(100% - 1rem);
+    height: calc(100% - 5.25rem);
+
+    overflow: scroll;
+
+    padding: 0.5rem 0.5rem 0 0.5rem;
+
+    position: relative;
+    float: left;
+
+    background-color: var(--color-20);
+}
+
+.chat-footer {
+    width: calc(100% - 1rem);
+    height: 1.75rem;
+
+    padding: 0.5rem;
+
+    position: relative;
+    float: left;
+
+    background-color: var(--color-40);
+}
+
+.chat-footer-input {
+    width: calc(100% - 4rem);
+    height: calc(100% - 1rem);
+
+    margin: 0;
+    padding: 0.5rem;
+
+    position: relative;
+    float: left;
+
+    color: #404040;
+    font-size: 0.55rem;
+    font-weight: 500;
+
+    background: #FFFFFF33;
+    border: none;
+    border-radius: 0.5rem;
+
+    outline: none;
+    resize: none;
+}
+
+.chat-footer-submit {
+    width: 2.5rem;
+    height: 1.5rem;
+
+    margin: 0;
+    padding: 0;
+
+    margin-left: 0.5rem;
+
+    position: relative;
+    float: left;
+
+    color: white;
+    font-size: 0.55rem;
+    font-weight: 900;
+    text-align: center;
+    line-height: 1.5rem;
+
+    background-color: var(--color-70);
+    border: none;
+    border-radius: 0.5rem;
+
+    outline: none;
+}
+
+.chat-message {
+    width: 100%;
+    height: auto;
+    margin-bottom: 0.5rem;
+
+    position: relative;
+    float: left;
+}
+
+.chat-message-content {
+    width: auto;
+    max-width: 70%;
+    height: auto;
+
+    padding: 0.25rem;
+
+    position: relative;
+
+    color: #404040;
+    font-size: 0.6rem;
+    font-weight: 500;
+    line-height: 1.5;
+
+    border-radius: 0.25rem;
+}
+
+.chat-message-content-left {
+    float: left;
+    background-color: var(--color-30);
+}
+
+.chat-message-content-right {
+    float: right;
+    background-color: white;
+}
+
+.chat-message-time {
+    width: auto;
+    height: 1.4rem;
+    padding: 0 0.25rem;
+
+    color: #808080;
+    font-size: 0.4rem;
+    font-weight: 700;
+    line-height: 1.4rem;
+}
+
+.chat-message-time-left {
+    float: left;
+}
+
+.chat-message-time-right {
+    float: right;
+}

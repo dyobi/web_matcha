@@ -1,0 +1,45 @@
+@media (max-width: 80rem) {
+    .nav {
+        width: 3rem;
+        height: 100%;
+
+        position: relative;
+        float: left;
+    }
+
+    .nav-profile {
+        display: none;
+    }
+
+    .nav-fullname {
+        display: none;
+    }
+
+    .nav-location-container {
+        display: none;
+    }
+
+    .nav-menu-icon {
+        margin: 0.5rem;
+    }
+
+    .nav-menu-title {
+        display: none;
+    }
+
+    .default {
+        width: calc(100% - 3rem);
+    }
+
+    .frame {
+        width: calc(100% - 5rem);
+        max-width: 80rem;
+        max-height: calc(100% - 7.5rem);
+    }
+
+    .frame-narrow {
+        width: calc(100% - 5rem);
+        max-width: 80rem;
+        max-height: calc(100% - 7.5rem);
+    }
+}

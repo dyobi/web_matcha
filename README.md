@@ -12,7 +12,7 @@
 
 ## Preview
 
-<img src="https://github.com/aidandlim/portfolio_matcha/blob/master/PREVIEW.png?raw=true" width="100%" title="preview" alt="preview">
+<img src="https://github.com/dyobi/WEBPJT_MATCHA/blob/master/PREVIEW.png?raw=true" width="100%" title="preview" alt="preview">
 
 ---
 

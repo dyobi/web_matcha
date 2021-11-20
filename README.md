@@ -79,6 +79,18 @@
 
 ---
 
+## Luke Kim (@kilkim in 42 Silicon Valley)
+
+- A Web developer who likes trying new things.
+
+- Studies computer science at 42 Silicon Valley.
+
+- Majored in mechanical Engineering.
+
+- Contact: dyobi.92@gmail.com
+
+---
+
 ## Aidan Lim (@dlim in 42 Silicon Valley)
 
 - A Web & App developer who love traveling.
@@ -88,12 +100,6 @@
 - Studies computer science at De Anza College & 42 Silicon Valley.
 
 - Contact: aidandlim@gmail.com
-
----
-
-## Luke Lim (@kilkim in 42 Silicon Valley)
-
-***Not Yet***
 
 ---
 

@@ -93,7 +93,7 @@
 
 ## Aidan Lim (@dlim in 42 Silicon Valley)
 
-- A Web & App developer who love traveling.
+- A Web & App developer who loves traveling.
 
 - Worked as a full-stack developer for 3 and a half years.
 

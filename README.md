@@ -1,4 +1,4 @@
-<a href="https://matcha.aidandlim.com" title="header" alt="header">
+<a href="https://github.com/dyobi/web_matcha" title="header" alt="header">
   <img src="https://freepngimg.com/download/instagram/7-2-instagram-heart-picture.png" width="200" height="200" title="header" alt="header">
 </a>
 
@@ -12,7 +12,7 @@
 
 ## Preview
 
-<img src="https://github.com/dyobi/WEBPJT_MATCHA/blob/master/PREVIEW.png?raw=true" width="100%" title="preview" alt="preview">
+<img src="https://github.com/dyobi/web_matcha/blob/master/PREVIEW.png?raw=true" width="100%" title="preview" alt="preview">
 
 ---
 
